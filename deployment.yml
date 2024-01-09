@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: pod-mysb
-        image: wouldyou/spring:21
+        image: wouldyou/spring:22
         ports:
         - containerPort: 8085
 ---
